@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: casio 
-image_url: /images/myimages/Casio_TC500_Touch_Sensor_Watch.jpg
+image_url: /images/mygallery/Casio_TC500_Touch_Sensor_Watch.jpg
 caption: 'To ρολόι TC500 της εταιρίας Casio το οποίο σχεδιάστηκε και κατασκευάστηκε τη δεκαετία 80 παρείχε λειτουργίες υπολογιστή με χρήση οθόνης αφής. Η συγκεκριμένη εταιρία παρηγαγε πληθώρα μοντέλων ρολογιών υπολογιστή με αυξημένες λειτουργίες, όπως τηλεφωνικοί κατάλογοι, ευρετήρια ονομάτων και διευθύνσεων, χρονόμετρα κτλ' 
 license_url: 
 license_text: 
