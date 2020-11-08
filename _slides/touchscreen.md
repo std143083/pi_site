@@ -5,7 +5,7 @@ image_url: /images/xerox-star-pc.jpg
 caption: Οι σύγχρονες γραφικές διεπαφές των επιτραπέζιων υπολογιστών βασίζονται στο ερευνητικό έργο του XEROX PARC κατά την δεκαετία του 1970.
 slides:
   - Casio_TC500_Touch_Sensor_Watch
-  - cern-touchscreen-prototypes
+  - CERN-Stumpe_Capacitance_Touchscreen
   - xerox-alto
   - xerox-bravo
   - xerox-gypsy
