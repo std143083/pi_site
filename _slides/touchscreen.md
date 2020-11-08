@@ -4,7 +4,7 @@ title: Οθόνες αφής
 image_url: /images/xerox-star-pc.jpg
 caption: Οι σύγχρονες γραφικές διεπαφές των επιτραπέζιων υπολογιστών βασίζονται στο ερευνητικό έργο του XEROX PARC κατά την δεκαετία του 1970.
 slides:
-  - casio
+  - Casio_TC500_Touch_Sensor_Watch
   - cern-touchscreen-prototypes
   - xerox-alto
   - xerox-bravo
