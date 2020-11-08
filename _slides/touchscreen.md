@@ -1,23 +1,22 @@
 ---
 layout: slides
-title: Οθόνες αφής 
-image_url: /images/xerox-star-pc.jpg
-caption: Οι σύγχρονες γραφικές διεπαφές των επιτραπέζιων υπολογιστών βασίζονται στο ερευνητικό έργο του XEROX PARC κατά την δεκαετία του 1970.
+title: Οθόνες και επιφάνειες αφής
+image_url: /images/hand-occlusion.jpg
+caption: Οι οθόνες και επιφάνειες αφής σαν εναλλακτική μορφή διάδρασης σε σχέση με το ποντίκι και το πληκτρολόγιο.
 slides:
   - Casio_TC500_Touch_Sensor_Watch
   - CERN-Stumpe_Capacitance_Touchscreen
-  - xerox-alto
-  - xerox-bravo
-  - xerox-gypsy
-  - xerox-star-pc
-  - xerox-star-desktop
-  - xerox-star-genealogy
-  - macintosh-desktop
-  - gem2
-  - windows95
-  - wysiwyg
-  - dtp
-  - knuth-fonts
-  - squeakos
-  - sugar-neighborhood
+  - apple-newton
+  - hand-occlusion
+  - itv-program
+  - knowledge-navigator
+  - media-scrub
+  - mobile
+  - plato4
+  - rand-tablet
+  - reactable-music
+  - sage-lightgun
+  - sketchpad
+  - touch-develop
+  - touchpad
 ---
