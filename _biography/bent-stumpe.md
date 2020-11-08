@@ -5,7 +5,6 @@ image_url: /images/mygallery/Bent_Stumpe.jpg
 caption: "O Bent Stumpe, ο οποίος είναι ηλεκτρονικός μηχανικός, ασχολήθηκε ερευνητικά με τις οθόνες αφής όντας ερευνητής του CERN από το 1972"
 categories:
   - Βιογραφία
-  - Πρωτότυπα
 tags:
   - Οθόνες αφής
 ---
