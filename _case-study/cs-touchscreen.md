@@ -6,5 +6,5 @@
 Τη δεκαετία του 70 η ερευνητική ομάδα του CERN με επικεφαλής τον Bert Stumbe σχεδίασαν ένα πρωτότυπο οθόνης αφής και κατασκεύασαν την πρώτη οθόνη με 16 κουμπιά για τον έλεγχο των λειτουργιών του επιταγχυτή μικροσωματιδίων. Η συγκεκριμένη πατέντα ήταν πρωτοποριακή για την εποχή εκείνη λαμβάνοντας έντονο ενδιαφέρον από άλλα ερευνητικά κέντρα και εταιρίες καινοτόμων υπηρεσιών και προϊόντων. Αυτό είχε σαν αποτέλεσμα να σχεδιαστούν και εξελιχθούν περαιτέρω οι οθόνες αφής, να αναπτυχθούν καινούργιες πατέντες και να εφαρμοστούν σε πολλές εφαρμογές του διάχυτου υπολογισμού.
 
 
-<img alt="Creative Commons License" style="border-width:0" src="images/mygallery/CERN-Stumpe_Capacitance_Touchscreen.jpg" />
+<img alt="CERN Touchscreen" style="border-width:0" src="/images/mygallery/CERN-Stumpe_Capacitance_Touchscreen.jpg" />
 ![CERN Touchscreen](/images/mygallery/CERN-Stumpe_Capacitance_Touchscreen.jpg)
