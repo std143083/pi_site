@@ -7,4 +7,4 @@
 
 
 <img alt="Creative Commons License" style="border-width:0" src="images/mygallery/CERN-Stumpe_Capacitance_Touchscreen.jpg" />
-![CERN Touchscreen](images/mygallery/CERN-Stumpe_Capacitance_Touchscreen.jpg)
+![CERN Touchscreen](/images/mygallery/CERN-Stumpe_Capacitance_Touchscreen.jpg)
