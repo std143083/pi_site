@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Η οθόνες αφής στο διάχυτο υπολογισμό"
-image_url: /images/weiser-tab-pad-board.png
+image_url: /images/hand-occlusion.png
 caption: "Η οθόνες αφής στο διάχυτο υπολογισμό"
 categories:
   - Μελέτη Περίπτωσης
