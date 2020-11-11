@@ -7,7 +7,7 @@ license_url:
 year: 1985
 license_text:
 categories:
-  - Μέθοδος 
-  - Προτότυπο 
+  - Μέθοδος  
 tags:
+  - Casio 
 ---
