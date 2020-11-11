@@ -8,7 +8,7 @@ license_text:
 year: 1973
 categories: 
   - Πρωτότυπο
-  - Μεθοδος
+  - Μέθοδος
 tags:
   - Cern
   - Stumpe
