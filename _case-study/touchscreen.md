@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: std143083
 title: "Η οθόνες αφής στο διάχυτο υπολογισμό"
 image_url: /images/hand-occlusion.png
 caption: "Η οθόνες αφής στο διάχυτο υπολογισμό"
@@ -8,11 +8,7 @@ categories:
   - Μορφές
   - success
 tags:
-  - Xerox PARC
-  - Alan Kay
-  - Marc Weiser
-  - Bill English
-  - Steve Jobs
+  - Bent Stumpe
 gallery:
   - image_url: /images/xerox-star.jpg
     caption: "Ο επιτραπέζιος υπολογιστής με πληκτρολόγιο, ποντίκι, και γραφική επιφάνεια εργασίας (παράθυρα, εικονίδια, φάκελοι) που δημιουργήθηκε από τη Xerox στα τέλη της δεκαετίας του 1970 λίγο διαφέρει από τον μοντέρνο επιτραπέζιο υπολογιστή."
