@@ -16,7 +16,7 @@ To ρολόι TC500 της εταιρίας Casio το οποίο σχεδιάσ
 
 <img alt="Casio TC500" style="border-width:0" src="/images/mygallery/Casio_TC500_Touch_Sensor_Watch.jpg" />
 
-Στις αρχές τις δεκαετίας του 2000 η οθόνη αφής βρήκε εφαρμογή στο ερευνητικό πρόγραμμα Reactable του Πανεπιστήμιου Pompeu Fabra στη Βαρκελώνη. Με τη χρήση αυτής της οθόνης στο μουσικό όργανο Reactable ο χρήστης μπορούσε να ζήσει μουσικές εμπειρίες σε σαφώς εξελιγμένο επίπεδο διάδρασης.
+Στις αρχές τις δεκαετίας του 2000 η οθόνη αφής βρήκε εφαρμογή στο ερευνητικό πρόγραμμα Reactable του Πανεπιστήμιου Pompeu Fabra στη Βαρκελώνη. [3] Με τη χρήση αυτής της οθόνης στο μουσικό όργανο Reactable ο χρήστης μπορούσε να ζήσει μουσικές εμπειρίες σε σαφώς εξελιγμένο επίπεδο διάδρασης. 
 
 <img alt="Reactable Music" style="border-width:0" src="/images/reactable-music.jpg" />
 
@@ -26,3 +26,4 @@ To ρολόι TC500 της εταιρίας Casio το οποίο σχεδιάσ
 
 2. F Beck, B Stumpe (1973) Two devices for operator interaction in the central control of the new CERN accelerator. Technical Report. CERN https://cds.cern.ch/record/186242/files/CERN-73-06.pdf. Ανακτήθηκε, 10/2020
 
+3. Reactable - Music Knowledge Technology, https://reactable.com/. Ανακτήθηκε, 10/2020
